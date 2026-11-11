@@ -37,8 +37,6 @@ The Power BI report (`Project Dashboard.pbix`) consists of **two main dashboard 
 ### Page 1: Claims Cost Analysis
 Focuses on overall claim spending across service categories, high-impact clinical procedure codes (CPT), and primary diagnoses (ICD).
 
-![Claims Cost Analysis](Claims_Cost_2.png)
-
 #### Visual Elements & Insights:
 1. **Which Claim cost us more? (Horizontal Bar Chart):**
    * Highlights overall spending by claim category.
@@ -53,8 +51,6 @@ Focuses on overall claim spending across service categories, high-impact clinica
 
 ### Page 2: Member level Analysis
 Focuses on individual patient/member financial metrics, top-utilizer concentration, and claim payout ratios across healthcare providers.
-
-![Member level Analysis](Member_Analysis_2.png)
 
 #### Visual Elements & Insights:
 1. **Top 5 Highest-Cost Members (Horizontal Bar Chart):**
